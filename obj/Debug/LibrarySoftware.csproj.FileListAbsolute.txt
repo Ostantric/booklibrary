@@ -1,0 +1,35 @@
+C:\Users\Murat\Documents\Visual Studio 2012\Projects\LibrarySoftware\LibrarySoftware\bin\Debug\LibrarySoftware.exe.config
+C:\Users\Murat\Documents\Visual Studio 2012\Projects\LibrarySoftware\LibrarySoftware\bin\Debug\LibrarySoftware.exe
+C:\Users\Murat\Documents\Visual Studio 2012\Projects\LibrarySoftware\LibrarySoftware\bin\Debug\LibrarySoftware.pdb
+C:\Users\Murat\Documents\Visual Studio 2012\Projects\LibrarySoftware\LibrarySoftware\obj\Debug\BookStoreProject.AddBooks.resources
+C:\Users\Murat\Documents\Visual Studio 2012\Projects\LibrarySoftware\LibrarySoftware\obj\Debug\BookStoreProject.AddPeople.resources
+C:\Users\Murat\Documents\Visual Studio 2012\Projects\LibrarySoftware\LibrarySoftware\obj\Debug\BookStoreProject.Checkin.resources
+C:\Users\Murat\Documents\Visual Studio 2012\Projects\LibrarySoftware\LibrarySoftware\obj\Debug\BookStoreProject.Check_Out.resources
+C:\Users\Murat\Documents\Visual Studio 2012\Projects\LibrarySoftware\LibrarySoftware\obj\Debug\BookStoreProject.CheckOutHistory.resources
+C:\Users\Murat\Documents\Visual Studio 2012\Projects\LibrarySoftware\LibrarySoftware\obj\Debug\BookStoreProject.Main.resources
+C:\Users\Murat\Documents\Visual Studio 2012\Projects\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.Properties.Resources.resources
+C:\Users\Murat\Documents\Visual Studio 2012\Projects\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.GenerateResource.Cache
+C:\Users\Murat\Documents\Visual Studio 2012\Projects\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.exe
+C:\Users\Murat\Documents\Visual Studio 2012\Projects\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.pdb
+C:\Users\Murat\Documents\Visual Studio 2012\Projects\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Documents\Visual Studio 2012\Projects\LibrarySoftware\LibrarySoftware\obj\Debug\BookStoreProject.CheckInHistory.resources
+C:\Users\Ev\Desktop\LibrarySoftware\LibrarySoftware\bin\Debug\LibrarySoftware.exe.config
+C:\Users\Ev\Desktop\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.exe
+C:\Users\Ev\Desktop\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.pdb
+E:\Adana\LibrarySoftware\LibrarySoftware\obj\Debug\BookStoreProject.AddBooks.resources
+E:\Adana\LibrarySoftware\LibrarySoftware\obj\Debug\BookStoreProject.AddPeople.resources
+E:\Adana\LibrarySoftware\LibrarySoftware\obj\Debug\BookStoreProject.Checkin.resources
+E:\Adana\LibrarySoftware\LibrarySoftware\obj\Debug\BookStoreProject.CheckInHistory.resources
+E:\Adana\LibrarySoftware\LibrarySoftware\obj\Debug\BookStoreProject.Check_Out.resources
+E:\Adana\LibrarySoftware\LibrarySoftware\obj\Debug\BookStoreProject.CheckOutHistory.resources
+E:\Adana\LibrarySoftware\LibrarySoftware\obj\Debug\BookStoreProject.Main.resources
+E:\Adana\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.GenerateResource.Cache
+E:\Adana\LibrarySoftware\LibrarySoftware\bin\Debug\BookLibrary.exe.config
+E:\Adana\LibrarySoftware\LibrarySoftware\bin\Debug\BookLibrary.exe
+E:\Adana\LibrarySoftware\LibrarySoftware\bin\Debug\BookLibrary.pdb
+E:\Adana\LibrarySoftware\LibrarySoftware\obj\Debug\BookLibrary.Properties.Resources.resources
+E:\Adana\LibrarySoftware\LibrarySoftware\obj\Debug\BookLibrary.exe
+E:\Adana\LibrarySoftware\LibrarySoftware\obj\Debug\BookLibrary.pdb
+C:\Users\Murat\Desktop\Stuff to send Flex,California\BookLibrary\Code\LibrarySoftware\bin\Debug\BookLibrary.exe.config
+C:\Users\Murat\Desktop\Stuff to send Flex,California\BookLibrary\Code\LibrarySoftware\obj\Debug\BookLibrary.exe
+C:\Users\Murat\Desktop\Stuff to send Flex,California\BookLibrary\Code\LibrarySoftware\obj\Debug\BookLibrary.pdb
